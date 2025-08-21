@@ -1,0 +1,45 @@
+.card {
+  background-color: var(--white);
+  padding: var(--spacing-lg);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: var(--spacing-lg);
+  width: 100%;
+  max-width: 600px;
+}
+
+.questionHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.questionText {
+  margin: 0;
+}
+
+.optionsList {
+  list-style: none;
+  padding: 0;
+}
+
+.option {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: var(--spacing-sm);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.option:hover {
+  background-color: #357ABD;
+  color: var(--white);
+}
+
+.selected {
+  background-color: var(--primary-color);
+  color: var(--white);
+  border-color: var(--primary-color);
+}

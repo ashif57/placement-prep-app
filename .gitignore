@@ -1,0 +1,28 @@
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+*.pyc
+__pycache__/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# IDE and editor files
+.vscode/
+.qodo/
+.idea/
+*.swp
+*~
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+.yoyo/

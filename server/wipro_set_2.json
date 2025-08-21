@@ -1,0 +1,891 @@
+[
+  {
+    "question": "A and B together can complete 75% of a work in 33 days, while A, B and C together complete the whole work in 26 days. If C is 12.5% more efficient than B, find time taken by A and C to complete 70% of the work.",
+    "options": ["27.8 days", "28.4 days", "28.6 days", "29.2 days"],
+    "answer": "28.6 days",
+    "category": "Quantitative",
+    "subcategory": "Time & Work",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Principal doubles in 2 years at compound interest. What is the rate per annum?",
+    "options": ["25%", "22.5%", "20%", "17.5%"],
+    "answer": "25%",
+    "category": "Quantitative",
+    "subcategory": "Compound Interest",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Find the greatest number that divides 355, 54 and 103 leaving the same remainder.",
+    "options": ["4", "7", "9", "13"],
+    "answer": "7",
+    "category": "Quantitative",
+    "subcategory": "HCF & LCM",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "What is the unit’s digit of 1 + 2² + 3³ + 4⁴ + 5⁵ + 6⁶?",
+    "options": ["0", "4", "7", "9"],
+    "answer": "9",
+    "category": "Quantitative",
+    "subcategory": "Number Systems",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Six inlet pipes fill a tank in 9 hours, two outlet pipes empty in 6 hours. If all opened together, tank is filled in 9 hours. How many inlet pipes are there?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4",
+    "category": "Quantitative",
+    "subcategory": "Pipes & Cisterns",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Five coins are tossed. Probability of exactly two heads?",
+    "options": ["1/2", "5/16", "7/16", "1/4"],
+    "answer": "5/16",
+    "category": "Quantitative",
+    "subcategory": "Probability",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "A boat speed in still water is 14 km/h, stream is 4 km/h. It goes downstream from A to B and returns to midpoint in 19 h. What is distance between A and B?",
+    "options": ["160 km", "180 km", "200 km", "220 km"],
+    "answer": "180 km",
+    "category": "Quantitative",
+    "subcategory": "Time‑Speed‑Distance",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Dealer blends flour priced at ₹25, ₹30 per kg in ratio 12:15 and sells at ₹30 with 10% gain on first two sources and no profit/loss overall. Loss% on third?",
+    "options": ["20%", "30%", "40%", "50%"],
+    "answer": "40%",
+    "category": "Quantitative",
+    "subcategory": "Allegation & Mixtures",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Mean of 15,20,25,30,35,40,45,50,55 is?",
+    "options": ["35", "40", "45", "50"],
+    "answer": "35",
+    "category": "Quantitative",
+    "subcategory": "Averages",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Time‑Speed‑Distance: Train A of length 150 m crosses platform in 40 s; its speed is?",
+    "options": ["10 m/s", "12 m/s", "15 m/s", "18 m/s"],
+    "answer": "3.75 m/s",
+    "category": "Quantitative",
+    "subcategory": "Time‑Speed‑Distance",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Solve for x: (x – 3)(x + 2) = 0.",
+    "options": ["x = 3 or –2", "x = 1", "x = –6", "x = 0"],
+    "answer": "x = 3 or –2",
+    "category": "Quantitative",
+    "subcategory": "Algebra",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Logs: If log₁₀ x = 2, what is x?",
+    "options": ["10", "20", "100", "1000"],
+    "answer": "100",
+    "category": "Quantitative",
+    "subcategory": "Logarithms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "If 5 men take 8 hours to do a job, in how many hours will 15 men finish it?",
+    "options": ["2⅔", "4⅔", "6", "8"],
+    "answer": "2⅔",
+    "category": "Quantitative",
+    "subcategory": "Work",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Two trains of equal lengths cross each other in 20 s and 30 s when moving in opposite and same directions, speeds ratio is?",
+    "options": ["2:3", "3:2", "4:5", "5:4"],
+    "answer": "3:2",
+    "category": "Quantitative",
+    "subcategory": "Time‑Speed‑Distance",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Which is divisible by 11: 11011, 11121, 11000 or 10010?",
+    "options": ["11011", "11121", "10010", "11000"],
+    "answer": "10010",
+    "category": "Quantitative",
+    "subcategory": "Divisibility",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Number of ways to choose 3 toys from 2 blue, 3 green, 4 red so at least one blue and one green?",
+    "options": ["33", "36", "38", "40"],
+    "answer": "33",
+    "category": "Quantitative",
+    "subcategory": "Permutation & Combination",
+    "company": "Wipro",
+    "type": "mcq"
+  }
+,
+  {
+    "question": "In a certain code, 'MISSIONS' is written as 'MSIISNOS'. How is 'ONLINE' coded?",
+    "options": ["OLNNIE", "ONILEN", "NOILEN", "LNOENI"],
+    "answer": "OLNNIE",
+    "category": "Logical Reasoning",
+    "subcategory": "Coding Deductive Logic",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "In a code, 'TIGER' → 'QDFHS'. How is 'FISH' written?",
+    "options": ["GERH", "GRHE", "GREH", "GHRE"],
+    "answer": "GRHE",
+    "category": "Logical Reasoning",
+    "subcategory": "Coding Deductive Logic",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "If P + Q means P is mother of Q; P - Q means P is brother of Q; P % Q means P is father of Q; P x Q means P is sister of Q, then which shows P is maternal uncle of Q?",
+    "options": ["Q - N + M x P", "P + S x N - Q", "P - M + N x Q", "Q - S % P"],
+    "answer": "P - M + N x Q",
+    "category": "Logical Reasoning",
+    "subcategory": "Blood Relations",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Pointing to a photograph of a boy, Suresh said: 'He is the son of the only son of my mother.' How is Suresh related to the boy?",
+    "options": ["Brother", "Uncle", "Cousin", "Father"],
+    "answer": "Father",
+    "category": "Logical Reasoning",
+    "subcategory": "Blood Relations",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "A man walks 5 km south, turns right and walks 3 km, then left and walks 5 km. Where is he relative to start?",
+    "options": ["South‑West", "North‑East", "South‑East", "North‑West"],
+    "answer": "South‑West",
+    "category": "Logical Reasoning",
+    "subcategory": "Directional Sense",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "If northwest becomes easy and northeast becomes south, then east becomes?",
+    "options": ["Southwest", "Southeast", "Northeast", "Northwest"],
+    "answer": "Southwest",
+    "category": "Logical Reasoning",
+    "subcategory": "Logical Word Sequence",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Which of the following series completes the sequence: A, C, F, J, __?",
+    "options": ["O", "N", "M", "L"],
+    "answer": "O",
+    "category": "Logical Reasoning",
+    "subcategory": "Analogy and Classification",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "All flowers are plants. Some plants are trees. Which conclusion follows?",
+    "options": ["Some flowers are trees", "All trees are flowers", "None", "Both"],
+    "answer": "Some flowers are trees",
+    "category": "Logical Reasoning",
+    "subcategory": "Syllogism",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "In seating arrangement of 6 people, A sits second from left, etc. (typical puzzle)",
+    "options": ["..."],
+    "answer": "...",
+    "category": "Logical Reasoning",
+    "subcategory": "Seating and Data Arrangements",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Given conditions A>B, B>C, A not(C), etc. Which statement is true? (typical decision‑table logic)",
+    "options": ["Only A>C", "Only B>A", "None", "Both"],
+    "answer": "Only A>C",
+    "category": "Logical Reasoning",
+    "subcategory": "Selection Decision Tables",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Which odd word does not belong: Apple, Banana, Carrot, Mango?",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": "Carrot",
+    "category": "Logical Reasoning",
+    "subcategory": "Odd Man Out",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "In the set \"L E F T\", which logical rearrangement yields words in alphabetical order?",
+    "options": ["ELFT", "FLTE", "LEFT", "TELF"],
+    "answer": "ELFT",
+    "category": "Logical Reasoning",
+    "subcategory": "Analogy and Classification",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Interpret the phrase: If all dots move clockwise, what shape forms next? (diagram puzzle)",
+    "options": ["Square", "Circle", "Triangle", "Pentagon"],
+    "answer": "Square",
+    "category": "Logical Reasoning",
+    "subcategory": "Inferred Meanings",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Arrange the words \"Rate, Art, Tear\" to logical word sequence.",
+    "options": ["Art → Rate → Tear", "Rate → Art → Tear", "Tear → Rate → Art", "Art → Tear → Rate"],
+    "answer": "Art → Rate → Tear",
+    "category": "Logical Reasoning",
+    "subcategory": "Logical Word Sequences",
+    "company": "Wipro",
+    "type": "mcq"
+  }
+,
+  {
+    "question": "Choose the synonym of ‘Humble’.",
+    "options": ["Boasting", "Polite", "Assertive", "Bold"],
+    "answer": "Polite",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the synonym of ‘Abnegate’.",
+    "options": ["Renounce", "Assert", "Give up", "Continue"],
+    "answer": "Renounce",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the synonym of ‘Irksome’.",
+    "options": ["Appease", "Alleviate", "Mollify", "Aggravating"],
+    "answer": "Aggravating",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the antonym of 'Fickle'.",
+    "options": ["Capricious", "Stable", "Unsteady", "Benign"],
+    "answer": "Stable",
+    "category": "Verbal Ability",
+    "subcategory": "Antonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the antonym of 'Gregarious'.",
+    "options": ["Solitary", "Flagrant", "Sociable", "Stupendous"],
+    "answer": "Solitary",
+    "category": "Verbal Ability",
+    "subcategory": "Antonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Fill in the blanks: Spirituality is also about _____ life in an _____, magnanimous and righteous manner.",
+    "options": ["untie, observable", "remorseless, undeniable", "pestilential, transparent", "traversing, altruistic"],
+    "answer": "traversing, altruistic",
+    "category": "Verbal Ability",
+    "subcategory": "Contextual Vocabulary",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Fill in: We ____ to inform you that we cannot include your thesis... on the ____ of not receiving permission...",
+    "options": ["saddened, reason", "lament, pretext", "repent, justification", "regret, grounds"],
+    "answer": "regret, grounds",
+    "category": "Verbal Ability",
+    "subcategory": "Contextual Vocabulary",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Select the correct sentence: 'There ___ great stables... rows of servant's cottages...'",
+    "options": ["There were great stable…", "There were great stables… servants' cottages…", "There are great stables… servants' cottages…", "There were great stables… servant's cottages…"],
+    "answer": "There were great stables… servants' cottages…",
+    "category": "Verbal Ability",
+    "subcategory": "Sentence Improvement & Construction",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Correct sentence: 'Then ___ the pumping plant for the artesian well... took their morning plunge...'",
+    "options": ["There were…", "Then there is…", "hen there was…", "Then there was…"],
+    "answer": "Then there was…",
+    "category": "Verbal Ability",
+    "subcategory": "Error Identification",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Identify error: 'A temple was erected to him at the foot of the Capitoline Hill...'",
+    "options": ["Part 1", "Part 2", "Part 3", "Part 4"],
+    "answer": "Part 1",
+    "category": "Verbal Ability",
+    "subcategory": "Error Identification",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Rearrange to logical order: Teacher uses to encourage creativity and critical thinking innovative methods.",
+    "options": ["RQPS", "PQSR", "QPSR", "QRSP"],
+    "answer": "PQSR",
+    "category": "Verbal Ability",
+    "subcategory": "Jumbled Sentence",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Arrange: Kyoto is a city… It is known for…, Kyoto was the capital of Japan…",
+    "options": ["S1-P-Q", "S1-Q-P", "P-S1-Q", "Q-P-S1"],
+    "answer": "S1-P-Q",
+    "category": "Verbal Ability",
+    "subcategory": "Comprehension Ordering",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Which sentence correctly uses prepositions: He insisted ___ the truth.",
+    "options": ["to know", "on knowing", "knowing", "that knowing"],
+    "answer": "on knowing",
+    "category": "Verbal Ability",
+    "subcategory": "Preposition & Conjunctions",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose correct usage: She ____ apples.",
+    "options": ["don’t like", "doesn’t like", "didn't liked", "no error"],
+    "answer": "doesn’t like",
+    "category": "Verbal Ability",
+    "subcategory": "Tenses & Articles",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Identify error in subject‑verb agreement: 'He and his brother ___ going.'",
+    "options": ["is", "are", "was", "were"],
+    "answer": "are",
+    "category": "Verbal Ability",
+    "subcategory": "Subject-Verb Agreement",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Change to passive voice: 'They announce the results tomorrow.'",
+    "options": ["The results are announced tomorrow.", "The results tomorrow are announced.", "The results will be announced tomorrow.", "Tomorrow the results are announced."],
+    "answer": "The results will be announced tomorrow.",
+    "category": "Verbal Ability",
+    "subcategory": "Speech & Voices",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Reading comprehension: Passage about personal search habits and names on internet. Theme?",
+    "options": ["Human vanity", "Digital identity", "Search culture", "Celebrity worship"],
+    "answer": "Search culture",
+    "category": "Verbal Ability",
+    "subcategory": "Reading Comprehension",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Inference from passage: The author googles 'dog's teeth', 'Risotto', 'cancer'. This shows?",
+    "options": ["Medical anxiety", "Routine behavior", "Fear of cancer", "Procrastination"],
+    "answer": "Medical anxiety",
+    "category": "Verbal Ability",
+    "subcategory": "Inferred Meanings",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Which of the following is NOT covered in the Wipro verbal syllabus?",
+    "options": ["Contextual Vocabulary", "Permutation & Combination", "Speech & Voices", "Jumbled Sentences"],
+    "answer": "Permutation & Combination",
+    "category": "Verbal Ability",
+    "subcategory": "Inferred Meanings",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose synonym: ‘Benevolence’.",
+    "options": ["Kindness", "Adopt", "Secure", "Greetings"],
+    "answer": "Kindness",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose synonym: ‘Audacity’.",
+    "options": ["Dislike", "Insolence", "Boasting", "Agree"],
+    "answer": "Insolence",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose synonym: ‘Arrogant’.",
+    "options": ["Conceited", "Humble", "Progressive", "Noble"],
+    "answer": "Conceited",
+    "category": "Verbal Ability",
+    "subcategory": "Synonyms",
+    "company": "Wipro",
+    "type": "mcq"
+  }
+,
+  {
+    "question": "Do you prefer to be just a member of a group or the leader of a group",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Present situation of Agriculture in India compare to ancient days",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Unity in Diversity – Often Discussed, Rarely Practiced",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "What are the way the IT people to help an uneducated Public",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Impact of western culture on Indians",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Internet is boon or bane?",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Demonetisation was good or bad",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Should Euthanasia be accepted or be kept banned",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Facebook Good or Bad?",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Climate Change",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Effect of COVID‑19",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Do we need smart cities or smart laws?",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Most memorable day of your life",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Mention 3 things you regret in your life",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Describe your personality",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Women empowerment",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Is there an increase in intolerance in India?",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Will Swacch Bharat campaign succeed?",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Global warming and its threats",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Technology has made humans slaves",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  }
+,
+  {
+    "question": "Write a program to check if a given integer is a palindrome.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to reverse a given string.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an integer N, write a program to output the Fibonacci series up to N terms.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an array of sock colors as integers, write a program to count how many matching color pairs can be formed.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a sequence of 'U' (uphill) and 'D' (downhill) steps that starts and ends at sea level, write a program to count how many valleys the hiker walked through.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Rotate an array to the left by D positions and output the resulting array.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a list of N−1 distinct numbers in the range 1 to N, write a program to find the missing number in the sequence.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to find the first non‑repeating character in a string. If all characters repeat, return an appropriate message.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an integer array, find the two distinct elements whose product is maximum. The array can contain negative numbers.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a sorted array, remove duplicates in‑place so that each element appears only once and return the new length.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Count the number of vowels (a, e, i, o, u) in a given string (case‑insensitive).",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given two integer arrays, write a program to return the intersection of the arrays (unique common elements, preserving order from the first array).",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  }
+,
+  {
+    "question": "Write a program to calculate the GCD (greatest common divisor) of two input integers.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to calculate the GCD of three numbers.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to check whether a given positive integer is prime.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an integer array, write a program to print its distinct elements in the order they appear.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program that sorts the first half of an integer array in ascending order and the second half in descending order.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program for matrix multiplication of two M×N and N×P matrices.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to remove all vowels (a, e, i, o, u) from a given input string.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a large positive integer (as number), print the sum of all odd digits it contains.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to compute the transpose of a given M×N matrix.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a 2-D array, write a program to print the largest element of each row.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a program to check if parentheses (including (), {}, []) are balanced in a given expression.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "The customer buys N products—given product prices, distances and stock availability; compute the final price for those deliverable products (perfect cube campaign)—print \\\"Yes\\\" if total is a perfect cube else the extra spend required.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an M×N input matrix, compute the sum of each row and indicate which row (1‑based) has the maximum sum.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Count the number of words in an input sentence (handle leading/trailing/multiple spaces correctly).",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given a sentence and a target word, count how many times the target word occurs in the sentence (exact matches, case‑sensitive/not).",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given two integers m and n, return the sum of all numbers between m and n (inclusive) that are divisible by both 3 and 5.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given employee distance IDs in an array and a range [start,end], return the indices of IDs lying in that range else print −1.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Create two functions: 1) sort an input array; 2) given two arrays, find and print the maximum element across both.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an integer, calculate the absolute difference between the sum of its even digits and sum of its odd digits.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an array of integers, for each element find the nearest greater element to its right; if none exists, print −1.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  }
+]

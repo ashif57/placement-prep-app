@@ -1,0 +1,346 @@
+[
+  {
+    "question": "If the simple interest on Rs. 600 at 12% per annum for a certain time is Rs. 72, what is the time period?",
+    "options": ["1 year", "2 years", "1.5 years", "3 years"],
+    "answer": "1 year",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "If the cost price of 15 pens is equal to the selling price of 12 pens, what is the gain percent?",
+    "options": ["20%", "25%", "30%", "15%"],
+    "answer": "25%",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "A train 120 m long passes a pole in 6 seconds. What is the speed of the train?",
+    "options": ["60 km/hr", "72 km/hr", "80 km/hr", "50 km/hr"],
+    "answer": "72 km/hr",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "If the sum of three consecutive even numbers is 84, what is the largest number?",
+    "options": ["26", "28", "30", "32"],
+    "answer": "30",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "If Rs. 1200 is divided between A and B in the ratio 3:2, what is B's share?",
+    "options": ["Rs. 440", "Rs. 480", "Rs. 500", "Rs. 550"],
+    "answer": "Rs. 480",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "A rectangular garden is 40 m long and 25 m wide. If a path of 2 m wide is constructed outside the garden, what is the area of the path?",
+    "options": ["276 m²", "532 m²", "252 m²", "348 m²"],
+    "answer": "348 m²",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "The difference between simple and compound interest on Rs. 1200 for 2 years at 10% per annum is:",
+    "options": ["Rs. 15", "Rs. 12", "Rs. 9", "Rs. 24"],
+    "answer": "Rs. 12",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "A sum doubles in 8 years at simple interest. In how many years will it become four times?",
+    "options": ["16", "24", "20", "32"],
+    "answer": "24",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "If the cost of 2 apples and 3 oranges is Rs. 35 and the cost of 4 apples and 5 oranges is Rs. 65, what is the price of an apple?",
+    "options": ["Rs. 5", "Rs. 7.5", "Rs. 10", "Rs. 15"],
+    "answer": "Rs. 5",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "What is the value of x? If 3x + 2 = 17.",
+    "options": ["5", "4", "6", "7"],
+    "answer": "5",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "In what ratio must water be mixed with milk to get a profit of 25% by selling at cost price?",
+    "options": ["1:3", "3:1", "1:4", "4:1"],
+    "answer": "1:3",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "A bus covers 144 km at 36 km/hr. How long does it take?",
+    "options": ["3 hrs", "4 hrs", "3.5 hrs", "2.5 hrs"],
+    "answer": "4 hrs",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "How many two-digit numbers are divisible by 7?",
+    "options": ["12", "13", "11", "10"],
+    "answer": "13",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "If a batsman scores 90 runs in the 10th match and increases average by 5, what was his average after 10 matches?",
+    "options": ["50", "55", "45", "60"],
+    "answer": "50",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "A can do a work in 10 days, B in 15 days. If B works for 5 days and leaves, how much work is left?",
+    "options": ["1/3", "1/2", "2/3", "1/4"],
+    "answer": "2/3",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "The average age of a group of 10 students is 20 years. One joins, and the average increases by 2. Find the age of the new student.",
+    "options": ["42", "38", "28", "32"],
+    "answer": "42",
+    "company": "Wipro",
+    "category": "Quantitative",
+    "type": "mcq"
+  },
+  {
+    "question": "Spot the error: She has went to college.",
+    "options": ["She", "has", "went", "to"],
+    "answer": "went",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Find the antonym of 'optimistic':",
+    "options": ["Hopeful", "Pessimistic", "Confident", "Courageous"],
+    "answer": "Pessimistic",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": ["He don't know", "He wasn't knowing", "He doesn't know", "He didn't knew"],
+    "answer": "He doesn't know",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the passive form: The child broke the window.",
+    "options": ["The window is broken by the child.", "The window was broken by the child.", "The window has broken by the child.", "The child is broken the window."],
+    "answer": "The window was broken by the child.",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Fill in the blank: He has lived here ____ 2005.",
+    "options": ["for", "since", "from", "by"],
+    "answer": "since",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the synonym of 'accelerate'.",
+    "options": ["Hasten", "Decelerate", "Stagnate", "Delay"],
+    "answer": "Hasten",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Spot the error: This is the boy which won the prize.",
+    "options": ["This", "is", "which", "won"],
+    "answer": "which",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Identify the part with an error: Ramesh, as well as his friends, are going to the match.",
+    "options": ["Ramesh", "as well as", "friends", "are going"],
+    "answer": "are going",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the word most nearly same in meaning to 'abandon'.",
+    "options": ["Leave", "Gather", "Hold", "Asked"],
+    "answer": "Leave",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the best alternative: She prefers tea ____ coffee.",
+    "options": ["than", "to", "by", "above"],
+    "answer": "to",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Identify the correct spelling.",
+    "options": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+    "answer": "Accommodate",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Complete the analogy: Water : Thirst :: Food : ____",
+    "options": ["Taste", "Hunger", "Eat", "Drink"],
+    "answer": "Hunger",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Find the one word for: One who looks at the bright side of things.",
+    "options": ["Optimist", "Pessimist", "Realist", "Fatalist"],
+    "answer": "Optimist",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Which sentence uses the correct tense?",
+    "options": ["I have seen him yesterday.", "I saw him yesterday.", "I seen him yesterday.", "I seeing him yesterday."],
+    "answer": "I saw him yesterday.",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Find the synonym of 'eliminate'.",
+    "options": ["Include", "Root out", "Enlarge", "Add"],
+    "answer": "Root out",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the correct one: Neither Riya nor Priya ____ absent.",
+    "options": ["are", "were", "is", "was"],
+    "answer": "is",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Mark the part which has an error: One of the boy have left.",
+    "options": ["One", "of the boy", "have", "left"],
+    "answer": "have",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": ["He speak English fluently.", "He spoke English fluently.", "He spoken English fluently.", "He speaking English fluently."],
+    "answer": "He spoke English fluently.",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the right option: She is cleverer ____ her sister.",
+    "options": ["to", "with", "than", "as"],
+    "answer": "than",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Pick out the correctly punctuated sentence.",
+    "options": ["How are you, today?", "How are you today.", "How are you, today.", "How are you today?"],
+    "answer": "How are you today?",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the correct preposition: The cat jumped ____ the table.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "on",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Select the antonym of 'artificial'.",
+    "options": ["Natural", "Man-made", "Real", "Excellent"],
+    "answer": "Natural",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Choose the sentence with correct articles.",
+    "options": ["He is honest man.", "He is an honest man.", "He is a honest man.", "He is the honest man."],
+    "answer": "He is an honest man.",
+    "company": "Wipro",
+    "category": "Verbal English",
+    "type": "mcq"
+  },
+  {
+    "question": "Is online education better than traditional classroom learning? Discuss with examples.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Essay Writing",
+    "type": "text"
+  },
+  {
+    "question": "Write a program to print the Fibonacci series up to N terms.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Write a function to check if two strings are anagrams of each other.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  },
+  {
+    "question": "Given an array and a target, write a program to find pairs whose sum is equal to the target.",
+    "options": [],
+    "answer": "",
+    "company": "Wipro",
+    "category": "Coding",
+    "type": "programming"
+  }
+]

@@ -1,0 +1,23 @@
+.container {
+  padding: var(--spacing-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timerContainer {
+  margin-bottom: var(--spacing-lg);
+  align-self: flex-end;
+}
+
+.resultsContainer {
+  text-align: center;
+}
+
+.navigationButtons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--spacing-md);
+  width: 100%;
+  max-width: 600px;
+}

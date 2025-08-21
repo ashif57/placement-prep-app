@@ -1,0 +1,10 @@
+.editor {
+  background-color: #f5f2f0;
+  font-family: 'Fira Code', 'Courier New', monospace;
+  font-size: 14px;
+  padding: var(--spacing-md);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  min-height: 200px;
+  border: 1px solid #ddd;
+}

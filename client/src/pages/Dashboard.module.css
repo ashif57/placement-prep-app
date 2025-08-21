@@ -1,0 +1,122 @@
+.container {
+  padding: var(--spacing-lg);
+}
+
+.title {
+  margin-bottom: var(--spacing-lg);
+  text-align: center;
+}
+
+.testList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--spacing-lg);
+  list-style: none;
+  padding: 0;
+  margin-bottom: var(--spacing-xxl);
+}
+
+.testItem {
+  background-color: var(--white);
+  padding: var(--spacing-lg);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s;
+  height: 100%;
+}
+
+.testItem:hover {
+  transform: translateY(-5px);
+}
+
+.testLink {
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: bold;
+  display: block;
+  height: 100%;
+}
+.historyTitle {
+  margin-top: var(--spacing-xxl); /* Add space above the history title */
+  margin-bottom: var(--spacing-lg);
+  text-align: center;
+}
+
+.resultsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: var(--spacing-lg);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: var(--white);
+  border-radius: 8px;
+  overflow: hidden; /* Ensures rounded corners apply to content */
+}
+
+.resultsTable th,
+.resultsTable td {
+  padding: var(--spacing-md);
+  border-bottom: 1px solid var(--border-color);
+  text-align: left;
+}
+
+.resultsTable th {
+  background-color: var(--primary-color);
+  color: var(--white);
+  font-weight: bold;
+}
+
+.resultsTable tbody tr:nth-child(even) {
+  background-color: var(--light-gray);
+}
+
+.resultsTable tbody tr:hover {
+  background-color: var(--hover-color);
+}
+
+.deleteButton {
+  background-color: #dc3545; /* Red color for delete */
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.deleteButton:hover {
+  background-color: #c82333; /* Darker red on hover */
+}
+
+.detailsButton {
+  background-color: #007bff; /* Blue color for details */
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 8px; /* Add space between buttons */
+  transition: background-color 0.3s ease;
+}
+
+.detailsButton:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+.header {
+  background-color: var(--primary-color);
+  color: var(--white);
+  padding: var(--spacing-md);
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: var(--spacing-lg);
+}
+.footer {
+  margin-top: var(--spacing-xxl);
+  text-align: center;
+  padding: var(--spacing-lg);
+  background-color: var(--primary-color);
+  border-top: 1px solid var(--border-color);
+  border-radius: 8px;
+}

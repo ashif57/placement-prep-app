@@ -1,0 +1,462 @@
+[
+{
+  "question": "A and B together can complete a piece of work in 10 days. B and C together in 8 days. A and C together in 12 days. In how many days can A, B and C together complete the work?",
+  "options": ["4", "5", "6", "7"],
+  "answer": "5",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "A shopkeeper sells an article at a loss of 8%. If he had sold it for Rs. 51 more, he would have gained 10%. What is the cost price of the article?",
+  "options": ["Rs. 425", "Rs. 400", "Rs. 475", "Rs. 500"],
+  "answer": "Rs. 425",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "The LCM of two numbers is 180 and their HCF is 6. If one of the numbers is 30, what is the other?",
+  "options": ["36", "42", "90", "60"],
+  "answer": "36",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "If the average of 6 numbers is 25 and the average of 4 of these numbers is 20, what is the average of the remaining 2 numbers?",
+  "options": ["35", "30", "40", "25"],
+  "answer": "40",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "If the ratio of the ages of A and B is 3:4, and after 6 years the ratio becomes 4:5, what is the present age of A?",
+  "options": ["15", "18", "21", "24"],
+  "answer": "18",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "Alfred buys an old scooter for Rs.4700 and spends Rs.800 on its repairs. If he sells the scooter for Rs.5800, his gain percent is:",
+  "options": ["4%", "5.5%", "10%", "12%"],
+  "answer": "10%",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "Two pipes can fill a tank in 15 min and 12 min. The outlet can empty the tank in 20 min. If all opened together, how much time to fill the tank?",
+  "options": ["10 min", "12 min", "15 min", "20 min"],
+  "answer": "10 min",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "A sum amounts to Rs.815 in 3 years and to Rs.854 in 4 years at simple interest. The sum is:",
+  "options": ["Rs.650", "Rs.690", "Rs.698", "Rs.700"],
+  "answer": "Rs.698",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "If selling price is doubled, the profit triples. What is the profit percent?",
+  "options": ["100%", "105.33%", "120%", "66.67%"],
+  "answer": "100%",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+  "options": ["588", "600", "672", "700"],
+  "answer": "700",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+  "options": ["15", "16", "18", "25"],
+  "answer": "16",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "A can do a piece of work in 14 days; working together A and B can do it in 10 days. In how many days can B alone do it?",
+  "options": ["23", "25", "30", "35"],
+  "answer": "35",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "With the money I have, I can buy 50 pens or 150 pencils. I kept 10% aside for taxi fare. With the remaining, I purchased 54 pencils and P pens. What is P?",
+  "options": ["27", "30", "32", "38"],
+  "answer": "30",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "The selling price of 13 apples equals the cost price of 26 mangoes. The selling price of 16 mangoes is the same as cost price of 12 apples. Profit on mangoes is 20%. What is profit on apples?",
+  "options": ["20%", "25%", "40%", "Cannot be determined"],
+  "answer": "25%",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "Anu can do a work in 6 days, Binu in 9 days. Anu and Binu undertook to do it for Rs.4500, with Minu they finished in 3 days. What was Minu’s share?",
+  "options": ["Rs.750", "Rs.1250", "Rs.2250", "Rs.2000"],
+  "answer": "Rs.1250",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+},
+{
+  "question": "A lady starts from P for Q. At R, the point is midway between P and Q. If PR is 5km and RQ is 5km, what is PQ?",
+  "options": ["10km", "7km", "5km", "Cannot be determined"],
+  "answer": "10km",
+  "company": "Wipro",
+  "category": "Quantitative",
+  "type": "mcq"
+}
+,
+{
+  "question": "What is the next number in the series: 5, 10, 20, 40, __?",
+  "options": ["60", "70", "80", "90"],
+  "answer": "80",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Pointing to a photo, A says, 'He is the son of the only son of my mother.' How is A related to the person in the photo?",
+  "options": ["Father", "Uncle", "Brother", "Nephew"],
+  "answer": "Father",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "If 'APPLE' is coded as 'ELPPA', how is 'ORANGE' coded?",
+  "options": ["EGNARO", "EGRANO", "EGORNA", "EGAORN"],
+  "answer": "EGNARO",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "In a certain code 'MANGO' is written as 'OCPCM'. How is 'GRAPE' written?",
+  "options": ["ITCRG", "ITCRC", "IRCIT", "IRCTG"],
+  "answer": "ITCRC",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Which is the odd one out: Book, Pen, Pencil, Sharpener",
+  "options": ["Book", "Pen", "Pencil", "Sharpener"],
+  "answer": "Book",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Statements: Some books are pens. All pens are pencils. Conclusions: 1. Some books are pencils. 2. All pencils are pens.",
+  "options": ["Only 1", "Only 2", "Both", "Neither"],
+  "answer": "Only 1",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Find the missing number in the sequence: 3, 6, 11, 18, __, 38",
+  "options": ["27", "28", "29", "30"],
+  "answer": "29",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Which diagram represents the relationship between 'dog', 'pets', and 'animals'?",
+  "options": ["Three circles intersecting", "One inside another", "All separate", "Two overlapping, one away"],
+  "answer": "One inside another",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Arrange the words in logical order: 1. Sentence 2. Letter 3. Paragraph 4. Word",
+  "options": ["2,4,1,3", "2,1,4,3", "4,2,1,3", "2,4,3,1"],
+  "answer": "2,4,1,3",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Which term fits: 2, 5, 10, 17, __, 37",
+  "options": ["25", "26", "28", "30"],
+  "answer": "26",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "If in alphabetical order, which comes next after: Q, S, U, W, __",
+  "options": ["Y", "Z", "X", "V"],
+  "answer": "Y",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Arrange: 1. Login 2. Enter password 3. Start computer 4. Click browser",
+  "options": ["3,1,2,4", "3,1,4,2", "3,2,1,4", "2,1,3,4"],
+  "answer": "3,1,2,4",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "Which one doesn't belong to the group: Cat, Dog, Cow, Tiger",
+  "options": ["Cat", "Dog", "Cow", "Tiger"],
+  "answer": "Cow",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+},
+{
+  "question": "If A is the brother of B, B is the sister of C, C is the father of D, how is A related to D?",
+  "options": ["Uncle", "Father", "Grandfather", "Brother"],
+  "answer": "Uncle",
+  "company": "Wipro",
+  "category": "Logical Reasoning",
+  "type": "mcq"
+}
+,
+{
+  "question": "Spot the error: He do not know the answer.",
+  "options": ["He", "do", "not", "know"],
+  "answer": "do",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Find the synonym for 'Brief':",
+  "options": ["Short", "Limited", "Little", "Long"],
+  "answer": "Short",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correctly spelled word.",
+  "options": ["Definately", "Definetly", "Definitely", "Definately"],
+  "answer": "Definitely",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct passive form: They are playing cricket.",
+  "options": ["Cricket is played by them.", "Cricket was being played by them.", "Cricket is being played by them.", "They are played cricket."],
+  "answer": "Cricket is being played by them.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Fill in the blank: He ____ to work by bus every day.",
+  "options": ["go", "goes", "gone", "going"],
+  "answer": "goes",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the word opposite in meaning to 'ancient'.",
+  "options": ["New", "Old", "Modern", "Medieval"],
+  "answer": "Modern",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Identify the correct sentence.",
+  "options": ["She have a car.", "She has a car.", "She has car.", "She car has."],
+  "answer": "She has a car.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Find the error in: What did you expected and what did you get?",
+  "options": ["What", "did", "expected", "get"],
+  "answer": "expected",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Complete the analogy: Night : Day :: Moon : ______",
+  "options": ["Sun", "Star", "Earth", "Sky"],
+  "answer": "Sun",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct form: The jury ____ divided in their opinions.",
+  "options": ["was", "were", "is", "are"],
+  "answer": "were",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the best word for the blank: I am very interested ____ music.",
+  "options": ["at", "on", "in", "of"],
+  "answer": "in",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Identify the correctly punctuated sentence.",
+  "options": ["Yes please bring it to me.", "Yes, please bring it, to me.", "Yes, please bring it to me.", "Yes please bring it, to me."],
+  "answer": "Yes, please bring it to me.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Which one is a synonym of 'obvious'?",
+  "options": ["Clear", "Hidden", "Tiny", "Bright"],
+  "answer": "Clear",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct verb: Neither of the boys ____ here.",
+  "options": ["are", "is", "am", "were"],
+  "answer": "is",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the sentence with correct preposition.",
+  "options": ["I will meet you at Sunday.", "I will meet you on Sunday.", "I will meet you in Sunday.", "I will meet you by Sunday."],
+  "answer": "I will meet you on Sunday.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Pick the error in: He is senior than me.",
+  "options": ["He", "is", "senior", "than"],
+  "answer": "than",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct indirect speech: He said, 'I will come tomorrow.'",
+  "options": ["He said that he will come tomorrow.", "He said that he would come the next day.", "He said he would come tomorrow.", "He told he will come the next day."],
+  "answer": "He said that he would come the next day.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Select the best substitution: A person who talks too much.",
+  "options": ["Orator", "Verbose", "Reticent", "Taciturn"],
+  "answer": "Verbose",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Which is a correctly used idiom?",
+  "options": ["He kicked the bucket and went to market.", "He kicked the bucket.", "He kicked the bucket after lunch.", "He kicked bucket and went market."],
+  "answer": "He kicked the bucket.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct one: If I ____ you, I would apologize.",
+  "options": ["was", "were", "am", "be"],
+  "answer": "were",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Find the antonym of 'scarce'.",
+  "options": ["Plentiful", "Few", "Tiny", "Valuable"],
+  "answer": "Plentiful",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the correct form: The manager and his assistant ____ attending the meeting.",
+  "options": ["is", "are", "was", "were"],
+  "answer": "are",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+},
+{
+  "question": "Choose the sentence with the correct order of adjectives.",
+  "options": ["She wore a red beautiful silk dress.", "She wore a beautiful red silk dress.", "She wore a silk beautiful red dress.", "She wore a silk red beautiful dress."],
+  "answer": "She wore a beautiful red silk dress.",
+  "company": "Wipro",
+  "category": "Verbal English",
+  "type": "mcq"
+}
+,
+{
+  "question": "Discuss the impact of social media on youth. Provide arguments for both the positive and negative influences.",
+  "options": [],
+  "answer": "",
+  "company": "Wipro",
+  "category": "Essay Writing",
+  "type": "text"
+}
+,
+{
+  "question": "Write a program to check if a given number is a palindrome.",
+  "options": [],
+  "answer": "",
+  "company": "Wipro",
+  "category": "Coding",
+  "type": "programming"
+},
+{
+  "question": "Write a program to find the first non-repeating character in a string.",
+  "options": [],
+  "answer": "",
+  "company": "Wipro",
+  "category": "Coding",
+  "type": "programming"
+},
+{
+  "question": "Given an array of integers, write a program to return the maximum sum of any contiguous subarray.",
+  "options": [],
+  "answer": "",
+  "company": "Wipro",
+  "category": "Coding",
+  "type": "programming"
+}
+]

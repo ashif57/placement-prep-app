@@ -1,0 +1,74 @@
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 50px;
+  transition: all 0.4s ease-in-out;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.btn:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-watch-now {
+  color: #fff;
+  background-image: linear-gradient(to right, #ff512f 0%, #dd2476 51%, #ff512f 100%);
+  border-color: #dd2476;
+}
+
+.btn-login {
+  color: #fff;
+  background-image: linear-gradient(to right, #2196f3 0%, #3f51b5 51%, #2196f3 100%);
+  border-color: #3f51b5;
+}
+
+.btn-download {
+  color: #fff;
+  background-image: linear-gradient(to right, #00c6ff 0%, #0072ff 51%, #00c6ff 100%);
+  border-color: #0072ff;
+}
+
+.btn-send-now {
+  color: #fff;
+  background-image: linear-gradient(to right, #f7971e 0%, #ffd200 51%, #f7971e 100%);
+  border-color: #ffd200;
+}
+
+.btn-buy-now {
+  color: #fff;
+  background-image: linear-gradient(to right, #e52d27 0%, #b31217 51%, #e52d27 100%);
+  border-color: #b31217;
+}
+
+.btn-settings {
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529;
+}
+
+.btn-thank-you {
+  color: #fff;
+  background-image: linear-gradient(to right, #1d976c 0%, #93f9b9 51%, #1d976c 100%);
+  border-color: #93f9b9;
+}
+
+.btn-denied {
+  color: #fff;
+  background-image: linear-gradient(to right, #ff416c 0%, #ff4b2b 51%, #ff416c 100%);
+  border-color: #ff4b2b;
+}
