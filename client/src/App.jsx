@@ -10,14 +10,15 @@ import EssayTest from './pages/EssayTest';
 import CodingTest from './pages/CodingTest';
 import Result from './pages/Result';
 import ResultDetails from './pages/ResultDetails';
+import Layout from './components/Layout';
 
 
 function App() {
   return (
     <Router>
-      <main className="App-main">
+      <Layout>
         <Routes>
-          <Route path="/" element={<Dashboard />} /> {/* Set Dashboard as default */}
+          <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/test/quant" element={<QuantTest />} />
@@ -28,7 +29,7 @@ function App() {
           <Route path="/result" element={<Result />} />
           <Route path="/result/:id" element={<ResultDetails />} />
         </Routes>
-      </main>
+      </Layout>
     </Router>
   );
 }
