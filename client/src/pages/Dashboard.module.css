@@ -1,39 +1,39 @@
 /* Dashboard.module.css */
 
 .container {
-  padding: var(--spacing-xl);
+  padding: calc(var(--spacing) * 8); /* --spacing-xl */
   max-width: 1200px;
   margin: 0 auto;
 }
 
 .header {
   text-align: center;
-  margin-bottom: var(--spacing-xxl);
+  margin-bottom: calc(var(--spacing) * 12); /* --spacing-xxl */
 }
 
 .mainTitle {
   font-size: 2.5rem;
-  margin-bottom: var(--spacing-sm);
-  color: var(--dark-color);
+  margin-bottom: calc(var(--spacing) * 2); /* --spacing-sm */
+  color: var(--foreground);
 }
 
 .subtitle {
   font-size: 1.2rem;
-  color: var(--text-color-light);
+  color: var(--muted-foreground);
 }
 
 .testGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: var(--spacing-xl);
-  margin-bottom: var(--spacing-xxl);
+  gap: calc(var(--spacing) * 8); /* --spacing-xl */
+  margin-bottom: calc(var(--spacing) * 12); /* --spacing-xxl */
 }
 
 .testCard {
-  background-color: var(--white-color);
-  border-radius: var(--border-radius);
-  box-shadow: var(--box-shadow-sm);
-  padding: var(--spacing-xl);
+  background-color: var(--background);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  padding: calc(var(--spacing) * 8); /* --spacing-xl */
   text-decoration: none;
   color: inherit;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -46,31 +46,31 @@
 
 .testCard:hover {
   transform: translateY(-5px);
-  box-shadow: var(--box-shadow);
+  box-shadow: var(--shadow);
 }
 
 .testCard h3 {
   font-size: 1.5rem;
-  margin-bottom: var(--spacing-sm);
-  color: var(--primary-color);
+  margin-bottom: calc(var(--spacing) * 2); /* --spacing-sm */
+  color: var(--primary);
 }
 
 .testCard p {
-  color: var(--text-color-light);
+  color: var(--muted-foreground);
 }
 
 .historyTitle {
   font-size: 2rem;
   text-align: center;
-  margin-bottom: var(--spacing-xl);
-  color: var(--dark-color);
+  margin-bottom: calc(var(--spacing) * 8); /* --spacing-xl */
+  color: var(--foreground);
 }
 
 .noResults {
   text-align: center;
-  padding: var(--spacing-xl);
-  background-color: var(--light-color);
-  border-radius: var(--border-radius);
+  padding: calc(var(--spacing) * 8); /* --spacing-xl */
+  background-color: var(--muted);
+  border-radius: var(--radius);
 }
 
 .resultsContainer {
@@ -80,23 +80,23 @@
 .resultsTable {
   width: 100%;
   border-collapse: collapse;
-  background-color: var(--white-color);
-  border-radius: var(--border-radius);
-  box-shadow: var(--box-shadow-sm);
+  background-color: var(--background);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
   overflow: hidden;
 }
 
 .resultsTable th,
 .resultsTable td {
-  padding: var(--spacing-md) var(--spacing-lg);
+  padding: calc(var(--spacing) * 4) calc(var(--spacing) * 6); /* --spacing-md, --spacing-lg */
   text-align: left;
-  border-bottom: var(--border-width) solid var(--border-color);
+  border-bottom: 1px solid var(--border); /* --border-width, --border-color */
 }
 
 .resultsTable th {
-  background-color: var(--light-color);
-  font-weight: var(--font-weight-bold);
-  color: var(--dark-color);
+  background-color: var(--muted);
+  font-weight: 700; /* --font-weight-bold */
+  color: var(--foreground);
   text-transform: uppercase;
   font-size: 0.85rem;
   letter-spacing: 0.5px;
@@ -107,10 +107,10 @@
 }
 
 .resultsTable tbody tr:hover {
-  background-color: var(--hover-color);
+  background-color: var(--accent); /* --hover-color */
 }
 
 .actionsCell {
   display: flex;
-  gap: var(--spacing-sm);
+  gap: calc(var(--spacing) * 2); /* --spacing-sm */
 }

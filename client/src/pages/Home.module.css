@@ -1,74 +1,75 @@
 .container {
-  padding: var(--spacing-xl);
+  padding: calc(var(--spacing) * 8); /* --spacing-xl */
   max-width: 1200px;
   margin: 0 auto;
 }
 
 .header {
   text-align: center;
-  margin-bottom: var(--spacing-xxl);
-  padding: var(--spacing-xxl) 0;
+  margin-bottom: calc(var(--spacing) * 12); /* --spacing-xxl */
+  padding: calc(var(--spacing) * 12) 0; /* --spacing-xxl */
 }
 
 .title {
   font-size: 3rem;
-  margin-bottom: var(--spacing-md);
-  color: var(--dark-color);
+  margin-bottom: calc(var(--spacing) * 4); /* --spacing-md */
+  color: var(--foreground);
 }
 
 .subtitle {
   font-size: 1.25rem;
-  margin-bottom: var(--spacing-lg);
-  color: var(--text-color-light);
+  margin-bottom: calc(var(--spacing) * 6); /* --spacing-lg */
+  color: var(--muted-foreground);
 }
 
 .ctaButton {
   display: inline-block;
-  padding: var(--spacing-md) var(--spacing-xl);
-  background-color: var(--primary-color);
-  color: var(--white-color);
-  border-radius: var(--border-radius);
+  padding: calc(var(--spacing) * 4) calc(var(--spacing) * 8); /* --spacing-md, --spacing-xl */
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+  border-radius: var(--radius);
   text-decoration: none;
   transition: background-color 0.3s;
   font-size: 1.1rem;
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
 }
 
 .ctaButton:hover {
-  background-color: var(--primary-color-dark);
+  background-color: var(--primary-foreground);
+  color: var(--primary);
 }
 
 .features {
-  margin-top: var(--spacing-xxl);
+  margin-top: calc(var(--spacing) * 12); /* --spacing-xxl */
 }
 
 .featuresTitle {
   text-align: center;
-  margin-bottom: var(--spacing-xl);
+  margin-bottom: calc(var(--spacing) * 8); /* --spacing-xl */
   font-size: 2.5rem;
-  color: var(--dark-color);
+  color: var(--foreground);
 }
 
 .featuresGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: var(--spacing-xl);
+  gap: calc(var(--spacing) * 8); /* --spacing-xl */
 }
 
 .featureCard {
-  background-color: var(--white-color);
-  padding: var(--spacing-xl);
-  border-radius: var(--border-radius);
-  box-shadow: var(--box-shadow-sm);
+  background-color: var(--background);
+  padding: calc(var(--spacing) * 8); /* --spacing-xl */
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
   text-align: center;
 }
 
 .featureCard h3 {
     font-size: 1.5rem;
-    margin-bottom: var(--spacing-md);
-    color: var(--primary-color);
+    margin-bottom: calc(var(--spacing) * 4); /* --spacing-md */
+    color: var(--primary);
 }
 
 .featureCard p {
-    color: var(--text-color-light);
+    color: var(--muted-foreground);
 }

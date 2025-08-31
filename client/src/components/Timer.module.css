@@ -1,9 +1,9 @@
 .timer {
-  font-size: var(--font-size-lg);
+  font-size: 1.25rem; /* --font-size-lg substitute */
   font-weight: bold;
-  color: var(--primary-color);
-  background-color: var(--white);
-  padding: var(--spacing-sm) var(--spacing-md);
+  color: var(--primary);
+  background-color: var(--background);
+  padding: calc(var(--spacing) * 2) calc(var(--spacing) * 4); /* --spacing-sm, --spacing-md */
   border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   display: inline-block;

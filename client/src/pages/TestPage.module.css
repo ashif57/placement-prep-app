@@ -1,12 +1,12 @@
 .container {
-  padding: var(--spacing-lg);
+  padding: calc(var(--spacing) * 6); /* --spacing-lg */
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .timerContainer {
-  margin-bottom: var(--spacing-lg);
+  margin-bottom: calc(var(--spacing) * 6); /* --spacing-lg */
   align-self: flex-end;
 }
 
@@ -17,7 +17,7 @@
 .navigationButtons {
   display: flex;
   justify-content: space-between;
-  margin-top: var(--spacing-md);
+  margin-top: calc(var(--spacing) * 4); /* --spacing-md */
   width: 100%;
   max-width: 600px;
 }

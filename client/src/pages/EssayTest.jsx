@@ -28,13 +28,30 @@ const EssayTest = () => {
 
   const handleSubmit = (text) => {
     console.log('Essay submitted:', text);
-    navigate('/result', { state: { score: 'N/A', totalQuestions: 1, category: 'Essay Writing' } });
-    // Handle submission
+    // Create detailed results for the essay
+    const detailedResults = [{
+      questionId: question._id,
+      questionText: question.question,
+      correctAnswer: 'N/A', // Essays don't have a single correct answer
+      userAnswer: text,
+      isCorrect: null, // Essays aren't simply correct/incorrect
+    }];
+    
+    navigate('/result', { state: { score: 'N/A', totalQuestions: 1, category: 'Essay Writing', detailedResults } });
   };
 
   const handleTimeUp = () => {
     // Handle time up
-    navigate('/result', { state: { score: 'N/A', totalQuestions: 1, category: 'Essay Writing' } });
+    // Create detailed results for the essay with empty text
+    const detailedResults = [{
+      questionId: question._id,
+      questionText: question.question,
+      correctAnswer: 'N/A',
+      userAnswer: '',
+      isCorrect: null,
+    }];
+    
+    navigate('/result', { state: { score: 'N/A', totalQuestions: 1, category: 'Essay Writing', detailedResults } });
   };
 
   if (!question) {

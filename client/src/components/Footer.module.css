@@ -1,13 +1,13 @@
 .footer {
-  background-color: var(--light-color);
-  padding: var(--spacing-xl) 0;
+  background-color: var(--muted);
+  padding: calc(var(--spacing) * 8) 0; /* --spacing-xl */
   text-align: center;
-  border-top: var(--border-width) solid var(--border-color);
-  margin-top: var(--spacing-xxl);
+  border-top: 1px solid var(--border); /* --border-width, --border-color */
+  margin-top: calc(var(--spacing) * 12); /* --spacing-xxl */
 }
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 var(--spacing-xl);
+  padding: 0 calc(var(--spacing) * 8); /* --spacing-xl */
 }

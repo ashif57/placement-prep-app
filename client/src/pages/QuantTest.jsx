@@ -31,7 +31,7 @@ const QuantTest = () => {
     const newUserAnswers = [...userAnswers];
     newUserAnswers[currentQuestionIndex] = selectedOption;
     setUserAnswers(newUserAnswers);
-  };
+ };
 
   const handleNext = () => {
     if (currentQuestionIndex < questions.length - 1) {
@@ -85,15 +85,15 @@ const QuantTest = () => {
         totalQuestions={questions.length}
       />
       <div className={styles.navigationButtons}>
-        <button onClick={handlePrevious} disabled={currentQuestionIndex === 0}>
+        <button onClick={handlePrevious} disabled={currentQuestionIndex === 0} className="btn btn-login">
           Previous
         </button>
         {currentQuestionIndex < questions.length - 1 ? (
-          <button onClick={handleNext}>
+          <button onClick={handleNext} className="btn btn-download">
             Next
           </button>
         ) : (
-          <button onClick={handleSubmit}>
+          <button onClick={handleSubmit} className="btn btn-thank-you">
             Submit
           </button>
         )}

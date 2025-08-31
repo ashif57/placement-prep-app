@@ -1,85 +1,87 @@
 .container {
-  padding: var(--spacing-lg);
+  padding: calc(var(--spacing) * 6); /* --spacing-lg */
   text-align: center;
 }
 
 .title {
-  margin-bottom: var(--spacing-lg);
+  margin-bottom: calc(var(--spacing) * 6); /* --spacing-lg */
 }
 
 .score {
-  font-size: var(--font-size-lg);
+  font-size: 1.25rem; /* --font-size-lg substitute */
   font-weight: bold;
-  margin-bottom: var(--spacing-lg);
+  margin-bottom: calc(var(--spacing) * 6); /* --spacing-lg */
 }
 
 .link {
   display: inline-block;
-  margin-top: var(--spacing-lg);
-  padding: var(--spacing-sm) var(--spacing-md);
-  background-color: var(--primary-color);
-  color: var(--white);
+  margin-top: calc(var(--spacing) * 6); /* --spacing-lg */
+  padding: calc(var(--spacing) * 2) calc(var(--spacing) * 4); /* --spacing-sm, --spacing-md */
+  background-color: var(--primary);
+  color: var(--primary-foreground);
   border-radius: 4px;
   text-decoration: none;
   transition: background-color 0.3s;
 }
 
 .link:hover {
-  background-color: #357ABD;
+  background-color: var(--primary-foreground);
+  color: var(--primary);
 }
 
 .button {
-  background-color: var(--primary-color);
-  color: white;
+  background-color: var(--primary);
+  color: var(--primary-foreground);
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
   font-size: 1rem;
-  margin-top: var(--spacing-lg);
+  margin-top: calc(var(--spacing) * 6); /* --spacing-lg */
   transition: background-color 0.3s ease;
 }
 
 .button:hover {
-  background-color: #357ABD;
+  background-color: var(--primary-foreground);
+ color: var(--primary);
 }
 
 .wrongQuestionsContainer {
-  margin-top: var(--spacing-xxl);
+  margin-top: calc(var(--spacing) * 12); /* --spacing-xxl */
   text-align: left;
-  background-color: var(--white);
-  padding: var(--spacing-lg);
+  background-color: var(--background);
+  padding: calc(var(--spacing) * 6); /* --spacing-lg */
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .wrongQuestionsContainer h3 {
-  margin-bottom: var(--spacing-md);
-  color: var(--primary-color);
+  margin-bottom: calc(var(--spacing) * 4); /* --spacing-md */
+  color: var(--primary);
 }
 
 .wrongQuestionsContainer ul {
   list-style: decimal;
-  padding-left: var(--spacing-lg);
+  padding-left: calc(var(--spacing) * 6); /* --spacing-lg */
 }
 
 .wrongQuestionsContainer li {
-  margin-bottom: var(--spacing-sm);
+  margin-bottom: calc(var(--spacing) * 2); /* --spacing-sm */
   line-height: 1.5;
 }
 .correctAnswersContainer {
-  margin-top: var(--spacing-xxl);
+  margin-top: calc(var(--spacing) * 12); /* --spacing-xxl */
   text-align: left;
-  background-color: var(--white);
-  padding: var(--spacing-lg);
+  background-color: var(--background);
+  padding: calc(var(--spacing) * 6); /* --spacing-lg */
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin-bottom: var(--spacing-lg);
+  box-shadow: 0 4px 6px rgba(0, 0, 0.1);
+  margin-bottom: calc(var(--spacing) * 6); /* --spacing-lg */
 }
 
 .correctAnswersContainer h3 {
-  margin-bottom: var(--spacing-md);
-  color: var(--primary-color);
+  margin-bottom: calc(var(--spacing) * 4); /* --spacing-md */
+  color: var(--primary);
 }
 
 .correctAnswersContainer ul {
@@ -88,8 +90,8 @@
 }
 
 .correctAnswerItem {
-  margin-bottom: var(--spacing-sm);
-  padding: var(--spacing-sm);
+  margin-bottom: calc(var(--spacing) * 2); /* --spacing-sm */
+  padding: calc(var(--spacing) * 2); /* --spacing-sm */
   border-radius: 4px;
   background-color: #e6ffe6; /* Light green for correct answers */
   border: 1px solid #66bb6a; /* Green border */
@@ -99,17 +101,17 @@
 }
 
 .incorrectAnswersContainer {
-  margin-top: var(--spacing-xxl);
+  margin-top: calc(var(--spacing) * 12); /* --spacing-xxl */
   text-align: left;
-  background-color: var(--white);
-  padding: var(--spacing-lg);
+  background-color: var(--background);
+  padding: calc(var(--spacing) * 6); /* --spacing-lg */
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .incorrectAnswersContainer h3 {
-  margin-bottom: var(--spacing-md);
-  color: var(--primary-color);
+  margin-bottom: calc(var(--spacing) * 4); /* --spacing-md */
+  color: var(--primary);
 }
 
 .incorrectAnswersContainer ul {
@@ -118,8 +120,8 @@
 }
 
 .incorrectAnswerItem {
-  margin-bottom: var(--spacing-sm);
-  padding: var(--spacing-sm);
+  margin-bottom: calc(var(--spacing) * 2); /* --spacing-sm */
+  padding: calc(var(--spacing) * 2); /* --spacing-sm */
   border-radius: 4px;
   background-color: #ffe6e6; /* Light red for incorrect answers */
   border: 1px solid #ef5350; /* Red border */

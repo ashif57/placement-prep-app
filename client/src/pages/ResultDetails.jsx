@@ -29,8 +29,11 @@ const ResultDetails = () => {
     return <div>Loading...</div>;
   }
 
-  const correctAnswers = result.detailedResults.filter(q => q.isCorrect);
-  const incorrectAnswers = result.detailedResults.filter(q => !q.isCorrect);
+  // Ensure detailedResults exists and is an array
+  const detailedResults = Array.isArray(result.detailedResults) ? result.detailedResults : [];
+  
+  const correctAnswers = detailedResults.filter(q => q.isCorrect);
+  const incorrectAnswers = detailedResults.filter(q => !q.isCorrect);
 
   return (
     <div className={styles.container}>
@@ -38,6 +41,13 @@ const ResultDetails = () => {
       <p className={styles.score}>
         Score: {result.score} out of {result.totalQuestions} in {result.category}
       </p>
+
+      {detailedResults.length === 0 && (
+        <div className={styles.wrongQuestionsContainer}>
+          <h3>No detailed results available</h3>
+          <p>The test result doesn't contain detailed information about individual questions.</p>
+        </div>
+      )}
 
       {correctAnswers.length > 0 && (
         <div className={styles.correctAnswersContainer}>
@@ -49,9 +59,9 @@ const ResultDetails = () => {
                   <FontAwesomeIcon icon={faCheckCircle} className={styles.checkIcon} />
                 </div>
                 <div className={styles.questionContent}>
-                  <p className={styles.questionText}>{q.questionText}</p>
-                  <p><strong>Correct Answer:</strong> {q.correctAnswer}</p>
-                  <p><strong>Your Answer:</strong> {q.userAnswer}</p>
+                  <p className={styles.questionText}>{q.questionText || 'Question text not available'}</p>
+                  <p><strong>Correct Answer:</strong> {q.correctAnswer || 'N/A'}</p>
+                  <p><strong>Your Answer:</strong> {q.userAnswer || 'N/A'}</p>
                 </div>
               </li>
             ))}
@@ -69,9 +79,9 @@ const ResultDetails = () => {
                   <FontAwesomeIcon icon={faTimesCircle} className={styles.timesIcon} />
                 </div>
                 <div className={styles.questionContent}>
-                  <p className={styles.questionText}>{q.questionText}</p>
-                  <p><strong>Correct Answer:</strong> {q.correctAnswer}</p>
-                  <p><strong>Your Answer:</strong> {q.userAnswer}</p>
+                  <p className={styles.questionText}>{q.questionText || 'Question text not available'}</p>
+                  <p><strong>Correct Answer:</strong> {q.correctAnswer || 'N/A'}</p>
+                  <p><strong>Your Answer:</strong> {q.userAnswer || 'N/A'}</p>
                 </div>
               </li>
             ))}
